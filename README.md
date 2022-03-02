@@ -25,4 +25,4 @@ This app is written using Python 3.9.5, following best practices.
 version 0.1.0 ; 1/3/2022 Initiated
 
 ## PR
-[pull_requests]()
+[pull_requests](https://github.com/Ammaro173/math-series/pulls?q=is%3Apr+is%3Aclosed)
